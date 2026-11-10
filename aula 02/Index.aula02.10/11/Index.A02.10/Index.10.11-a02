@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 02</title>
+</head>
+<body>
+    <h1> Aulas e parágrafos e tabelas</h1>
+    <p> o parágrafo usa tag
+        o navegador coloca um espaço entre um 
+        parágrafo e outro <em> automaticamente</em>
+    </p>
+
+    <h2> Lista de compras</h2>
+
+    <ul> 
+        <li> Arroz</li>
+        <li> Feijão</li>
+        <li> Café</li>
+        <li> Leite</li>
+    </ul>
+    
+    <h2> Como fazer um sanduiche?</h2>
+    <ol>
+        <li> Pega o pacote de sanduíche</li>
+        <li> Pega duas fatias</li>
+        <li> Passa manteiga/requijão/outro nas fatias</li>
+        <li> Ponha os ingredientes, como mortadela/queijo</li>
+        <li> Após colocar todos os ingrediente, guarde o restante dos alimentos no lugar</li>
+        <li> Agora desguste o sanduíche</li>
+    </ol>
+</body>
+</html>
